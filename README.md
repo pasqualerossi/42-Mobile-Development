@@ -1,19 +1,19 @@
 # 42 Swift Projects :iphone:
 
-### Camagru 
-- Instagram Like App
+### Camagru
+- Instagram Like App :framed_picture:
 
 ### Hangouts 
 - Contact Management System App :open_book:
 
 ### HyperTube 
-- YouTube Like App
+- YouTube Like App :tv:
 
 ### Matcha 
-- Dating App
+- Dating App :heart:
 
 ### Music Room 
-- Spotify Like App
+- Spotify Like App :headphones:
 
 ### Swifty Companion 
 - 42 Student Intra App :student:
