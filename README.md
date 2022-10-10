@@ -1,4 +1,4 @@
-# 42 Swift Projects :iphone:
+# 42 Mobile Development Projects :iphone:
 
 ### Camagru
 - Instagram Like App :framed_picture:
